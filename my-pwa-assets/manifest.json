@@ -1,7 +1,7 @@
 {
-  "name": "Полное название вашего PWA",
-  "short_name": "Краткое название",
-  "description": "Описание вашего приложения",
+  "name": "Field Service Operations",
+  "short_name": "FS Operations",
+  "description": "Collects all Field service activities around all branches",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#4466ee",
@@ -32,4 +32,5 @@
       "purpose": "maskable"
     }
   ]
+
 }
